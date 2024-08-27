@@ -1,4 +1,3 @@
----
 - name: ALLISONS Windows Updates Proto-Type Testing 
   hosts: Windows_Initial_Test_server
   remote_user: AnsibleService
