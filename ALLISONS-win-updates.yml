@@ -1,5 +1,5 @@
 - name: ALLISONS Windows Updates Proto-Type Testing 
-# hosts: Windows_Initial_Test_server
+  hosts: ALLISONS-All-Servers
   remote_user: AnsibleService
 #  become: yes
 #  gather_facts: false
